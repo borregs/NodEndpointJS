@@ -1,0 +1,15 @@
+{
+  "name" : "BorreLanding",
+  "version" : "1.0.0",
+  "scripts" : {
+    "start" : "node app.js"
+    },
+  "dependencies" : {
+    "express" : "4.13.3"
+    }, 
+  "Author" : "El Borrego Nava",
+  "Contact": "noreply_bravo@gmx.com",
+  "license": "ISC",
+  "description" : "A Blog 4 Babbling nonsense",
+  "repository" : "https://github.com/borregs/NodEndpointJS"
+}
